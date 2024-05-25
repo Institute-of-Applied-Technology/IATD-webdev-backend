@@ -1,0 +1,40 @@
+/* Login Page Styles */
+
+/* Center the content of the login page */
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Container for the login form */
+.login-container {
+  background-color: #9fc5f8;
+  padding: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+/* Title of the login form */
+.login-title {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-weight: bold;
+  padding-left: 0px;
+  padding-top: 0px;
+  font-size: large;
+}
+
+/* Description of the login form */
+.login-header {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-weight: normal;
+  padding-left: 25px;
+  font-size: medium;
+}

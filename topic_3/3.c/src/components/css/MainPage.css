@@ -1,0 +1,182 @@
+.root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 2px;
+}
+
+.logg-off-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.app-header-main-page {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.dashboard-container {
+  display: grid;
+  place-items: center;
+  height: 80vh;
+}
+
+.dashboard-flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.dashboard-item {
+  width: 500px;
+  height: 200px;
+  margin: 20px;
+}
+
+.icons {
+  display: flex;
+  margin-top: 10px;
+}
+
+.icons a {
+  margin-right: 10px;
+}
+
+.action-container {
+  background-color: #9fc5f8;
+  padding: 50px;
+  border-radius: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.action-title {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-weight: bold;
+  padding-left: 0px;
+  font-size: large;
+}
+
+.action-header {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-weight: normal;
+  padding-left: 25px;
+  font-size: medium;
+}
+
+table {
+  width: 98%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 2px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.dash-heading {
+  text-align: left;
+  margin-bottom: 10px;
+  font-size: large;
+}
+
+.chart-container {
+  width: 100%;
+  position: relative;
+}
+
+.balance-expense-header {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-weight: normal;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-container {
+  background-color: #9fc5f8;
+  padding: 40px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.modal-title {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-weight: bold;
+  padding-left: 0px;
+  padding-top: 50px;
+  font-size: large;
+}
+
+.modal-header {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-weight: normal;
+  padding-left: 25px;
+  font-size: medium;
+}
+
+.form-control {
+  border: none;
+  border-radius: 0;
+  padding: 0.3rem;
+}
+
+.form-border {
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  padding: 1.8rem;
+}
+
+.form-control:focus {
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.wide-form {
+  width: 500px;
+  margin: 10px;
+  gap: 15px;
+}
+
+.wide-form label {
+  flex: 1 0 100px;
+  margin-right: 10px;
+}
+
+.wide-form input,
+.wide-form select {
+  flex: 2 0 200px;
+}
+
