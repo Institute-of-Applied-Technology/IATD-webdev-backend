@@ -7,4 +7,3 @@ The code in this repository provides practical examples and additional resources
 
 A basic app in React to make the students understand the building blocks of a React app using (Vite+ React)
 
-## Folder Structure 
