@@ -1,0 +1,37 @@
+[
+    {
+        "_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "name": "Food",
+        "description": "Expenses related to food and dining"
+    },
+    {
+        "_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "name": "Transport",
+        "description": "Expenses related to transportation"
+    },
+    {
+        "_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "name": "Supplies",
+        "description": "Expenses related to school supplies"
+    },
+    {
+        "_id": {
+            "$oid": "60d0fe4f5311236168a109b3"
+        },
+        "name": "Entertainment",
+        "description": "Expenses related to entertainment"
+    },
+    {
+        "_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "name": "Clothing",
+        "description": "Expenses related to clothing"
+    }
+]

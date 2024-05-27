@@ -1,0 +1,652 @@
+[
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a0"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 6.09,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a0"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b3"
+        },
+        "amount": 40.77,
+        "description": "Entertainment expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a0"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 18.36,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a0"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 21.8,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a0"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 47.15,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a1"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 37.67,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a1"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 22.43,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a1"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b3"
+        },
+        "amount": 17.01,
+        "description": "Entertainment expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a1"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 38.02,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a1"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 47.22,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a2"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 29.63,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a2"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 10.19,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a2"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 39.95,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a2"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b3"
+        },
+        "amount": 34.02,
+        "description": "Entertainment expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a2"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 16.4,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a3"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 13.71,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a3"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 32.2,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a3"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 23.35,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a3"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 46.56,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a3"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b3"
+        },
+        "amount": 47.88,
+        "description": "Entertainment expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a4"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 7.27,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a4"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 34.92,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a4"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 44.3,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a4"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 44.65,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a4"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 46.66,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a5"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 31.62,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a5"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 9.8,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a5"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 29.08,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a5"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 38.99,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a5"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 34.14,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a6"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 48.97,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a6"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 41.41,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a6"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b3"
+        },
+        "amount": 43.53,
+        "description": "Entertainment expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a6"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 5.77,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a6"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b3"
+        },
+        "amount": 7.86,
+        "description": "Entertainment expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a7"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 8.07,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a7"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 6.02,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a7"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 16.42,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a7"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b3"
+        },
+        "amount": 39.53,
+        "description": "Entertainment expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a7"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 23.05,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a8"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 30.59,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a8"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 14.97,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a8"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 41.73,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a8"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 12.73,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a8"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b0"
+        },
+        "amount": 19.14,
+        "description": "Food expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a9"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 37.13,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a9"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b1"
+        },
+        "amount": 22.25,
+        "description": "Transport expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a9"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b4"
+        },
+        "amount": 21.33,
+        "description": "Clothing expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a9"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 44.83,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    },
+    {
+        "student_id": {
+            "$oid": "60d0fe4f5311236168a109a9"
+        },
+        "category_id": {
+            "$oid": "60d0fe4f5311236168a109b2"
+        },
+        "amount": 13.13,
+        "description": "Supplies expense",
+        "date": {
+            "$date": "2024-05-27T20:26:10.481646"
+        }
+    }
+]
