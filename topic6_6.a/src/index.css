@@ -1,0 +1,79 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #47212a;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+/* application level global styles */
+
+a {
+  font-weight: 50;
+  color: #2b78e4;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.app-header {
+  color: rgb(105, 5, 5);
+  text-align: center;
+  font-weight: bold;
+  font-size: x-large;
+  margin-bottom: 50px;
+  margin-bottom: 50px;
+}
+
+.app-buttons .btn {
+  width: 170px;
+  margin: 10px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background-color: #2b78e4;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-button-hover-effect:hover {
+  background-color: #2962ff;
+  color: white;
+  cursor: pointer;
+  transform: translateY(-2px);
+  transition: all 0.2s ease-in-out;
+}
+
+
+
