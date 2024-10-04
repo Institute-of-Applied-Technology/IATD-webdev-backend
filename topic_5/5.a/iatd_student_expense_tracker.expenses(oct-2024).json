@@ -1,0 +1,1600 @@
+[{
+  "_id": {
+    "$oid": "a0c1a3eed8f003cde82f6fcf"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 20.79,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-08T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c9c99f5d95b00db849610f05"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 48.48,
+  "description": "New shirt",
+  "date": {
+    "$date": "2024-05-29T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "1cf9d5a777a9892f568c93ba"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 40.86,
+  "description": "New shirt",
+  "date": {
+    "$date": "2024-05-29T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ceeb9b8b5fcd5c9762d7794c"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 6.24,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-20T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6d5cd7deda04a093d3ff6d73"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 38.98,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-11T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "7048073913bc08b0a782ad65"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 10.39,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-07T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ed1166bed3e10d3e804e0f5"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 16.56,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-11T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "f02044ed7e4d8eed3f9d4c08"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 29.5,
+  "description": "Lunch at school cafeteria",
+  "date": {
+    "$date": "2024-05-13T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "d0d26709d49bcb2ab7b2045d"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 26.19,
+  "description": "Notebook",
+  "date": {
+    "$date": "2024-05-21T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "d436ac6299f513fcb8b1a54e"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 36.81,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-25T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "28a12c8986d88af62324304a"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 6.93,
+  "description": "Notebook",
+  "date": {
+    "$date": "2024-05-24T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "94492c757f8123037a7d790b"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 28.15,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-04T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "828123ed3b5dbf132c66cf2f"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 13.18,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-06-01T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "04e38c20bd74f0c15622d6bd"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 15.08,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-05T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "82f04e118ca0135cd360e323"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 29.84,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-22T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e4ab560587e2c5e21833010c"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 13.53,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-16T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2ebc2b7f3810c3b722be5643"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 49.98,
+  "description": "Lunch at school cafeteria",
+  "date": {
+    "$date": "2024-05-23T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "fa712d66ecf15976ce521d57"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 46.67,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-20T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c186dff23d5539d33d3017ac"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 44.21,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-28T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e841c4b0d4a5485df9d4e4fc"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 16.95,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-09T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "17871c93ad3d2a7674933153"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 22.28,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-03T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9c4a315412f824f1c2bfeae7"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 25.92,
+  "description": "New shirt",
+  "date": {
+    "$date": "2024-05-18T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b62cc515184dbbdd91a94bc8"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 37.94,
+  "description": "New shirt",
+  "date": {
+    "$date": "2024-05-03T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "22c99f39f155c93b2b371f7a"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 38.02,
+  "description": "Lunch at school cafeteria",
+  "date": {
+    "$date": "2024-05-16T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "aba513547bbc0217d756c030"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 6.82,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-16T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "30c8a70f51f006e3574a9bc2"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 35.49,
+  "description": "Notebook",
+  "date": {
+    "$date": "2024-05-14T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9d218d8938853333bebfda94"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 10.14,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-05T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "34d3f6118c02a7307a9b7f63"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 28.03,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-23T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9b59269ae9b169cba5b87da0"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 5.67,
+  "description": "Notebook",
+  "date": {
+    "$date": "2024-05-29T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9d77f8a04189ff366d162718"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 27.26,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-12T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ad434a13c7637f3b7d02ba82"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 11.02,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-14T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ca8092e8f95e6c147417999b"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 36.5,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-07T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c82efe605eee33bc6754cbd1"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 18.05,
+  "description": "Concert tickets",
+  "date": {
+    "$date": "2024-05-14T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6656e59c1d9c813177593b29"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 23.29,
+  "description": "New shirt",
+  "date": {
+    "$date": "2024-05-13T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "7e409605cb0c5dcccfb2800b"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 14.48,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-03T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "1d81e74be70f293c1bc9062d"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 26.36,
+  "description": "Bus fare",
+  "date": {
+    "$date": "2024-05-06T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2087511e828d1a562473f62b"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 25.49,
+  "description": "Notebook",
+  "date": {
+    "$date": "2024-05-11T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "461da017b62ca28e724065af"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 7.9,
+  "description": "Lunch at school cafeteria",
+  "date": {
+    "$date": "2024-05-17T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "977cdfdfe67ca8e4d188c052"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 14.91,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-03T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2de6e1a371f6b95932e1d761"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 44.58,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-20T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "4e1a05986f7c1fbb0472056e"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 17.05,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-22T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6bb515aacb9fa98ed3e2e90e"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 5.45,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-28T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ced3630e8c9a66a1e3e87e85"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 11.17,
+  "description": "Bus fare",
+  "date": {
+    "$date": "2024-05-15T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "f5f9823b794c0c3f9e83ac04"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 42.94,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-09T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a28d67377fe7f366abbaf850"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 19.34,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-10T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "790f07d6f1c36ec1d48cba78"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 34.57,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-09T14:18:14.307Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "8a6ef37fce899485b261b455"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 6.89,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-14T14:18:14.307Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "400c04554c58775801307f8a"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 14.94,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-24T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3eae11b01171b02a0d3987ee"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 30.05,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-27T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a5c2d5ba23884a06f72e433e"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 34.22,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-22T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3c8c278293dbe9cc4b06addc"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 39.42,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-14T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b257fe232c61681d2121024a"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 48.68,
+  "description": "Bus fare",
+  "date": {
+    "$date": "2024-05-17T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2cd57bca64a83f4582b9c9e6"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 21.48,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-22T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b5d8f94e31cb377a1694720f"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 46.31,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-06-01T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6d614502588125a3eac2876c"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 38.93,
+  "description": "Concert tickets",
+  "date": {
+    "$date": "2024-05-11T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "83a0a473b3e0a5e39f1beb5c"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 16.96,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-26T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "efee84ba509d3025453c6128"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 34.69,
+  "description": "New shirt",
+  "date": {
+    "$date": "2024-05-26T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "db582cabba342426ee49e4e5"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 28.39,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-21T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "862176f5080645ac48281e16"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 45.22,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-18T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "1b07dd61d881c744e6852bf6"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 43.64,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-25T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6e0a1e915f6217099420a84b"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 5.17,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-13T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "009228d44965fed430e301f0"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 37.77,
+  "description": "Concert tickets",
+  "date": {
+    "$date": "2024-05-08T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b3af43bb5f3ba668cfa4bd1b"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 16.45,
+  "description": "Concert tickets",
+  "date": {
+    "$date": "2024-05-13T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "864e23e5dd988aed34d87022"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 44.16,
+  "description": "Concert tickets",
+  "date": {
+    "$date": "2024-05-09T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "03b3c9e7fca57acd680beaca"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 45.82,
+  "description": "Notebook",
+  "date": {
+    "$date": "2024-05-14T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c6f7bf34553e6f35e9ce3e0a"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 5.21,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-05T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c7b0184c636ac768b6c831d8"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 41.76,
+  "description": "Lunch at school cafeteria",
+  "date": {
+    "$date": "2024-05-08T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "924c8b971391b9b4bd9b33d4"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 15.89,
+  "description": "Concert tickets",
+  "date": {
+    "$date": "2024-05-31T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "bd2324fd9d7b05ad8cdd99e3"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 6.51,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-22T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "f3b3e51f32b050af24074991"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 8.08,
+  "description": "Concert tickets",
+  "date": {
+    "$date": "2024-05-17T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e765db62bedc30b628950f86"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 43.24,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-25T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "05a02dd5d473082fc0b1161e"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 35.21,
+  "description": "Bus fare",
+  "date": {
+    "$date": "2024-05-14T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "72fb561398713452a092a1ed"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 10.82,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-28T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c80e1ed2dac1d2f790334603"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 30.49,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-20T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "7aa2b8de9703695f2825bdc1"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 45.56,
+  "description": "Concert tickets",
+  "date": {
+    "$date": "2024-05-10T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "d36c1504d2f9a340b06e69b0"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 24.78,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-05T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "becfa263245e9ee245e61dd6"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 13.87,
+  "description": "Notebook",
+  "date": {
+    "$date": "2024-05-31T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "163b47fcb88dcc703322b16f"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 44.66,
+  "description": "New shirt",
+  "date": {
+    "$date": "2024-05-12T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "f6381893f195fe47a3a9ed11"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 15.55,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-28T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "02b89830f7463f991d6070d0"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 46.76,
+  "description": "Bus fare",
+  "date": {
+    "$date": "2024-05-12T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "8f4dd5cad8c313909781d347"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 37.47,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-15T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "0f3545096d07e322c74f7b86"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 34.36,
+  "description": "Taxi fare",
+  "date": {
+    "$date": "2024-05-27T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "7f4d5bf7eb628ba7aaef773b"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 10.99,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-05T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "006025a3c057fd5101ae22d5"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 31.43,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-28T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2dfa5bd2a4a1d42e7984efd6"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 46.39,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-24T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3ae0da2dc3a2db65485d5ba5"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 11.65,
+  "description": "Lunch at school cafeteria",
+  "date": {
+    "$date": "2024-05-29T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9d2d5d70217f207eef201094"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 40.39,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-31T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c367d1092095bdabb66c2e90"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 36.2,
+  "description": "Notebook",
+  "date": {
+    "$date": "2024-05-25T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "bba4aed67c9201467492a692"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 34.95,
+  "description": "Bus fare",
+  "date": {
+    "$date": "2024-05-04T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "851c62807d654908347fa6e7"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 37.17,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-04T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b448e0d8998265c504116553"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b0"
+  },
+  "amount": 44.33,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-29T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "168c9701a4e77f157f0b7d41"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 41.45,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-06-01T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "31849feb68b424babff38856"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b4"
+  },
+  "amount": 39.04,
+  "description": "Bus fare",
+  "date": {
+    "$date": "2024-05-26T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "346cb0b19195e44b7a572445"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 5.09,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-06-01T14:18:14.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "0538e1795b123b14c0089432"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 13.79,
+  "description": "New shirt",
+  "date": {
+    "$date": "2024-05-21T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "948d4dd23738f47861e53f70"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b1"
+  },
+  "amount": 47.02,
+  "description": "Snack",
+  "date": {
+    "$date": "2024-05-15T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6d572d2c15e75385c13bb21d"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 36.58,
+  "description": "Bus fare",
+  "date": {
+    "$date": "2024-05-11T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2999f1da2c1b6d48fb6491f8"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 17.22,
+  "description": "Stationery",
+  "date": {
+    "$date": "2024-05-12T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a14e0c3c1de320e33e447e6b"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b2"
+  },
+  "amount": 30.13,
+  "description": "New pants",
+  "date": {
+    "$date": "2024-05-11T14:18:14.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b343b06d959b596033d79ce5"
+  },
+  "student_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "category_id": {
+    "$oid": "60d0fe4f5311236168a109b3"
+  },
+  "amount": 5.89,
+  "description": "Movie tickets",
+  "date": {
+    "$date": "2024-05-31T14:18:14.309Z"
+  }
+}]
