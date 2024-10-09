@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a0"
+  },
+  "name": "John Doe",
+  "email": "john.doe@iatd.edu.au",
+  "balance": 100
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a3"
+  },
+  "name": "Michael Brown",
+  "email": "michael.brown@iatd.edu.au",
+  "balance": 150
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a5"
+  },
+  "name": "David Wilson",
+  "email": "david.wilson@iatd.edu.au",
+  "balance": 600
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a6"
+  },
+  "name": "Linda Martinez",
+  "email": "linda.martinez@iatd.edu.au",
+  "balance": 220
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a9"
+  },
+  "name": "Robert Taylor",
+  "email": "robert.taylor@iatd.edu.au",
+  "balance": 210
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a2"
+  },
+  "name": "Emily Johnson",
+  "email": "emily.johnson@iatd.edu.au",
+  "balance": 300
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a4"
+  },
+  "name": "Sarah Davis",
+  "email": "sarah.davis@iatd.edu.au",
+  "balance": 180
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a1"
+  },
+  "name": "Jane Smith",
+  "email": "jane.smith@iatd.edu.au",
+  "balance": 200
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a7"
+  },
+  "name": "James Anderson",
+  "email": "james.anderson@iatd.edu.au",
+  "balance": 170
+},
+{
+  "_id": {
+    "$oid": "60d0fe4f5311236168a109a8"
+  },
+  "name": "Laura Thomas",
+  "email": "laura.thomas@iatd.edu.au",
+  "balance": 190
+}]
